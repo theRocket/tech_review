@@ -1,8 +1,9 @@
-# Tech Review
+## UIUC CS 410 - Text Information Systems
+#### [Technology review of OpenAI GPT-3 deep learning system](https://docs.google.com/document/d/1YGYZgXGcpiQBdCJni6pWmlBgxYHAiPtKwk7Bp5VAjys/edit?usp=sharing)
 
-Please enter your topics [here](https://docs.google.com/spreadsheets/d/1rYlXm-46abhU4Lg7K2zrDE6VSl2uH_tNql1S7fd1UIM/edit?usp=sharing) by Week 8 (Oct 18). You may choose a topic already chosen by other students (e.g. Survey of text mining toolkits) but please make sure that your review covers something novel that is not available online or in other students' submissions. The "description" column in the sign up sheet should help identify whether your review is unique or not. So, please read the desciptions of other students who've chosen a similar topic as you. You should also provide sufficient details in your description to help others decide.
+#### Papers
+- GPT [Improving Language Understanding by Generative Pre-Training](./GPT_language_understanding_paper.pdf)
 
+- GPT-2 [Language Models are Unsupervised Multitask Learners](./GPT2_language_models_are_unsupervised_multitask_learners.pdf)
 
-Some sample topics have been provided [here](https://docs.google.com/spreadsheets/d/1yeKm8hJbyRGhiUDvZv9-S3Zzu5hDtET-O6Yeci-VPOs/edit?usp=sharing). You are free to use them or come up with your own topics!
-
-## Due: Nov 15, 2020 at 11:59 pm CST
+- GPT-3 [Language Models are Few-Shot Learners](./GPT3_2005.14165.pdf)
